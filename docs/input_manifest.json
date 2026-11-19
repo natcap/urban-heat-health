@@ -1,0 +1,112 @@
+[
+  {
+    "path": "data/cobenefits/citywide_energy_productivity_summary.csv",
+    "sha256": "10d81df3b076b4fff2e1ff29cdf60caa7ca809bac74bf4ba75a8821a1d94daf4",
+    "bytes": 1422
+  },
+  {
+    "path": "data/cobenefits/borough_energy_productivity_summary.csv",
+    "sha256": "392e9a5e45e9047707d995d0f0a55971614720c807d39635b6b57a322e0430e7",
+    "bytes": 39111
+  },
+  {
+    "path": "data/health/citywide_results.csv",
+    "sha256": "075919a6bcb84dfa1b86f22db44796804d86edbe48c799ef59de84b6b9f143e0",
+    "bytes": 16381
+  },
+  {
+    "path": "data/health/borough_results.csv",
+    "sha256": "70fe9be8f985723f232a1eaf7d129ed0295855951316da6cde3771b2f073f0de",
+    "bytes": 466962
+  },
+  {
+    "path": "data/health/equity_comparison/gam_curves.csv",
+    "sha256": "e0bef5a6fa651fed902832b3f4d762c80eb6e92223b982aa00dac9f526cdd1ce",
+    "bytes": 764173
+  },
+  {
+    "path": "data/health/equity_comparison/figure7_summary.csv",
+    "sha256": "1add3000e273b6270313264149cca1f6a95de2d9a3b93dac6b53725a5132fc61",
+    "bytes": 701
+  },
+  {
+    "path": "data/health/lsoa_results.csv",
+    "sha256": "7a56d67e6672de9354f3ce5805bcf372836b3221b7a93687652f013177b79815",
+    "bytes": 807391
+  },
+  {
+    "path": "data/derived/fig7_vulnerability_lsoa11_fig7_revised_equal_area.gpkg",
+    "sha256": "e547fb05307a6448a7b4ec698942fde4ffa8dab4b8c95b59e525a17e93bae372",
+    "bytes": 6631424
+  },
+  {
+    "path": "data/derived/lsoa_population_2021_by_lsoa11cd.csv",
+    "sha256": "413e506219ee0384d8e33da9d4ddd2a10272ea1ed630eff3691a85c15cba883f",
+    "bytes": 203950
+  },
+  {
+    "path": "data/equity/overlay_input_checksums.csv",
+    "sha256": "529863cbc9ec0f13a60c66a30a1576392d24641327be5fdc97458cbaba85a784",
+    "bytes": 315
+  },
+  {
+    "path": "data/climate/figure1_baseline_comparison_20261111_v1_baselines.csv",
+    "sha256": "6953f4fbfa1dbd3199ad995b855a808faef3541168a1076cc2c5c7894e9e6ef0",
+    "bytes": 2424
+  },
+  {
+    "path": "data/climate/figure1_baseline_comparison_20261111_v1_by_model.csv",
+    "sha256": "079b1f7b0ace1c3553c2e21186474c1fa3d57845036730f98cf6c1adca7d6996",
+    "bytes": 57151
+  },
+  {
+    "path": "data/climate/figure1_baseline_comparison_20261111_v1_summary.csv",
+    "sha256": "3eb9016c9fd4faba2f15d370e7ea9466f5b2e66fe12f4370c4e19d9c5fcda0cc",
+    "bytes": 482
+  },
+  {
+    "path": "data/temperature/figure3_main_v01_20261111_conditions.csv",
+    "sha256": "09490691346fd7619a62beb844a5fe743709f903f2781b17e75a38e320ae5895",
+    "bytes": 1602
+  },
+  {
+    "path": "data/temperature/figure3_main_v01_20261111_borough.csv",
+    "sha256": "cedfc3d2048556c7ed046f9539643986841fc07fcb1f7c52e4712046e6dbb64e",
+    "bytes": 15194
+  },
+  {
+    "path": "data/boundaries/london_borough.shp",
+    "sha256": "5d296f021b931c091b9b97fdfb4118406ee82376f7f1a73bf348236b1f68c0a5",
+    "bytes": 778728
+  },
+  {
+    "path": "data/boundaries/london_borough.shx",
+    "sha256": "743d103b9b1210cb3337f8e1723b03ead25377443f8b3a7635d699bf38702400",
+    "bytes": 364
+  },
+  {
+    "path": "data/boundaries/london_borough.dbf",
+    "sha256": "639c08c09be23573378fc89d5e9e3388a0ce32868c9c7a9b0fa8f6268c7127ed",
+    "bytes": 2700
+  },
+  {
+    "path": "data/boundaries/london_borough.prj",
+    "sha256": "d97d276680377a05a19a8b8030ae04c4a87e883a9e5c07d0c646e5402e773a89",
+    "bytes": 417
+  },
+  {
+    "path": "data/equity/figure2_lsoa.csv",
+    "sha256": "8aa2b6797d8a6febee537ead1fcd4210eb0a48af97f4c236e84800dba1c2a0e8",
+    "bytes": 357537
+  },
+  {
+    "path": "data/health/manifest.json",
+    "sha256": "4cb5bf5d0a8595373b925b7e990b0d0025fac7c1ee2c2afeb22da7ad5985e80c",
+    "bytes": 129
+  },
+  {
+    "path": "data/temperature/figure3_main_v01_20261111_manifest.json",
+    "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+    "bytes": 3
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "path": "code/check_environment.R",
+    "sha256": "73f1f283a540efec9d6317ce057e895d051af15539f007eb4e700806887f3eb9"
+  },
+  {
+    "path": "code/compare_figure6_scenarios.R",
+    "sha256": "e7c84f6b4c31da77a3ece1ed9c8a712bf48924d7625a0fc5e3acfd1411a902a6"
+  },
+  {
+    "path": "code/equity-health-fig7-production.Rmd",
+    "sha256": "d92edc1a1f1a73c0aa191825e27c50b8c67cadb432b3fbca1bfb4c8fa218309f"
+  },
+  {
+    "path": "code/equity-health.Rmd",
+    "sha256": "86018c76044a802815d1f868fb038051bd66cdf2f72f23b2702b9da701cd5580"
+  },
+  {
+    "path": "code/figure2_plot_helpers.R",
+    "sha256": "39faa580e65a31dd66528b9aaa27ba1bb5ddb5decab39f36900c388418d0cf8d"
+  },
+  {
+    "path": "code/figure4_panel_helpers.R",
+    "sha256": "4b18ed08f50925383c988db31cbd11b5cac5dac5530d81cbf2dae971af541e45"
+  },
+  {
+    "path": "code/func_colors.R",
+    "sha256": "b41a5bf96f5714dfda87c3312b014dc13495ab31cbac12b8a9f50b1515d47a7f"
+  },
+  {
+    "path": "code/install_packages.R",
+    "sha256": "0cecd66ee9324826ba473ba314b721da1f4245df70acc71da2ad1cc972c81cd6"
+  },
+  {
+    "path": "code/plot_extended_data_health.R",
+    "sha256": "70f9636c4e756750b7c03909a2a811e2a075a83493cadc2231c1b5c7f6a877f6"
+  },
+  {
+    "path": "code/plot_figure1.R",
+    "sha256": "62d49226cd479af209356afbb8052d0c3c8c2a92fd9c6a09cd3c5399fc321424"
+  },
+  {
+    "path": "code/plot_figure2.R",
+    "sha256": "93d7021e21ef8b7a9fe61924bd95fbcc335c3c85df13db053d0cf42bd3837fb1"
+  },
+  {
+    "path": "code/plot_figure3_temperature.R",
+    "sha256": "69506bf26e46f469e53cbb74ded5dfe23129f75d45732ec2db0d1af8f1d1170d"
+  },
+  {
+    "path": "code/plot_figure4_citywide.R",
+    "sha256": "94af8371409565276c725827f02652e8004e15a2ad58df23565d01bc528a4a37"
+  },
+  {
+    "path": "code/plot_figure5_borough_cobenefits.R",
+    "sha256": "c4f54267eca8e03ddc0d1d651360b9d6b9643da70f8a7d56fddd451687af989c"
+  },
+  {
+    "path": "code/plot_seasonal_manuscript_figures.R",
+    "sha256": "8df694eb6418b886287e2f7d2945563af04a8d2cf1e113ef60e5df5145567e04"
+  },
+  {
+    "path": "code/plot_seasonal_supplement_figures.R",
+    "sha256": "ad43d16d3680bc451f115bc168d14e212d2f69edd1328033fc972d1d1f5b0f8d"
+  },
+  {
+    "path": "code/run.R",
+    "sha256": "75f9cf81f5d012bca73931e884547bc12fd1d785c9d2022cd061295af799f2b4"
+  },
+  {
+    "path": "code/verify.py",
+    "sha256": "f4b05d464628874954ae6a4ed951671c639b18a449b61578f0b8113b96152910"
+  }
+]

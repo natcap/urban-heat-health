@@ -1,0 +1,27 @@
+# Publish only the 13 selected manuscript PNGs. Other generated files remain local.
+figures/*
+!figures/extended_data_figure1.png
+!figures/fig7_ab_supplement_all_five_seasonal_20261112_v2.png
+!figures/figure1_main_v03_20261111.png
+!figures/figure1_sm_ssp370_ssp585_v01_20261112.png
+!figures/figure2.png
+!figures/figure3_main_v03_20261111.png
+!figures/figure4_citywide_cobenefits_release_v1.png
+!figures/figure5_borough_cobenefits_release_v1.png
+!figures/figure6_supplement_green_overlay_seasonal_20261112_v2.png
+!figures/figure6_supplement_target_overlay_seasonal_20261112_v2.png
+!figures/figure6_svi_green30_target30_seasonal_v03.png
+!figures/figure7_supp_indicator_shares_seasonal_v01.png
+!figures/figure7_svi_main_seasonal_v06.png
+
+# Reference images and release-maintenance records remain local.
+figures_reference/
+local_review/
+
+.Rhistory
+.RData
+.Rproj.user/
+.Renviron
+.env
+*.log
+.DS_Store
